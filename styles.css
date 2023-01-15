@@ -101,3 +101,22 @@ ul.links, a {
     margin: 5px;
     color: #223d63;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 60px 100px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-ref {
+    text-align: right;
+    font-size: 18px;
+    font-weight: 800;
+    color: #1F2937;
+}
