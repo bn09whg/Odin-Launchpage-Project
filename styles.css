@@ -148,3 +148,9 @@ ul.links, a {
     border-color: white;
     padding: 3px;
 }
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
